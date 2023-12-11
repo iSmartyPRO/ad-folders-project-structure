@@ -1,0 +1,98 @@
+{
+    "name": "Test Folder",
+    "description": "This Folder for test purposes",
+    "project": "Test",
+    "projectPrefix": "test",
+    "projectFolder": "D:\\!_DocArch",
+    "descriptionFolder": "G:\\Test\\!_DocArch",
+    "scans": {
+        "user": "net_scan"
+    },
+    "folders": [
+        {
+            "name": "1-DESIGN",
+            "sgName": "design",
+            "scans": true
+        },
+        {
+            "name": "2-MEP",
+            "sgName": "mep",
+            "scans": true
+        },
+        {
+            "name": "3-QA,QC",
+            "sgName": "qaQc",
+            "scans": true
+        },
+        {
+            "name": "4-PTO",
+            "sgName": "pto",
+            "scans": true
+        },
+        {
+            "name": "5-FINANCE",
+            "sgName": "finance",
+            "scans": true
+        },
+        {
+            "name": "6-PURCHASE",
+            "sgName": "purchase",
+            "scans": true
+        },
+        {
+            "name": "7-HR",
+            "sgName": "hr",
+            "scans": true
+        },
+        {
+            "name": "8-WAREHOUSE",
+            "sgName": "warehouse",
+            "scans": true
+        },
+        {
+            "name": "9-HSE",
+            "sgName": "hse",
+            "scans": true
+        },
+        {
+            "name": "10-BUH",
+            "sgName": "buh",
+            "scans": true
+        },
+        {
+            "name": "11-LAWYER",
+            "sgName": "lawyer",
+            "scans": true
+        },
+        {
+            "name": "12-MEDIA",
+            "sgName": "media",
+            "scans": false
+        },
+        {
+            "name": "13-TECHNICAL OFFICE",
+            "sgName": "technicalOffice",
+            "scans": true
+        },
+        {
+            "name": "14-USERS",
+            "sgName": "users",
+            "scans": false
+        },
+        {
+            "name": "15-IT",
+            "sgName": "it",
+            "scans": true
+        },
+        {
+            "name": "16-GEO",
+            "sgName": "geo",
+            "scans": true
+        },
+        {
+            "name": "17-SPECIFICATION",
+            "sgName": "specification",
+            "scans": false
+        }
+    ]
+}
