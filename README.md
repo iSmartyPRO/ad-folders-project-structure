@@ -53,3 +53,4 @@ New-ProjectStructure -JsonConfig .\Project.json
 ```
 Install-WindowsFeature -IncludeAllSubFeature RSAT
 ```
+Примечание: посте установки, возможно потребуется перезагрузка сервера.
