@@ -10,47 +10,47 @@
     },
     "folders": [
         {
-            "name": "1-DESIGN",
+            "name": "01-DESIGN",
             "sgName": "design",
             "scans": true
         },
         {
-            "name": "2-MEP",
+            "name": "02-MEP",
             "sgName": "mep",
             "scans": true
         },
         {
-            "name": "3-QA,QC",
+            "name": "03-QA,QC",
             "sgName": "qaQc",
             "scans": true
         },
         {
-            "name": "4-PTO",
+            "name": "04-PTO",
             "sgName": "pto",
             "scans": true
         },
         {
-            "name": "5-FINANCE",
+            "name": "05-FINANCE",
             "sgName": "finance",
             "scans": true
         },
         {
-            "name": "6-PURCHASE",
+            "name": "06-PURCHASE",
             "sgName": "purchase",
             "scans": true
         },
         {
-            "name": "7-HR",
+            "name": "07-HR",
             "sgName": "hr",
             "scans": true
         },
         {
-            "name": "8-WAREHOUSE",
+            "name": "08-WAREHOUSE",
             "sgName": "warehouse",
             "scans": true
         },
         {
-            "name": "9-HSE",
+            "name": "09-HSE",
             "sgName": "hse",
             "scans": true
         },

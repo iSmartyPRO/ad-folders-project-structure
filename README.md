@@ -47,3 +47,9 @@ New-ProjectStructure -JsonConfig .\Project.json
 
 ### Notes
 К сожалению не получилось настроить ACL для локального пользователя net_scan файлового сервера. Возможно позже можно будет сделать - а в данной версии пользователя net_scan надо вручную допрописывать.
+
+Для установки RSAT на серверной ОС можно воспользоваться следующей командой PowerShell:
+
+```
+Install-WindowsFeature -IncludeAllSubFeature RSAT
+```
